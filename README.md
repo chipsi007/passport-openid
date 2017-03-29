@@ -1,3 +1,5 @@
+This fork adds an additional options argument to the authenticate function where you can set the returnUrl and realm options. This is very useful for multi-domain setups.
+
 # Passport-OpenID
 
 [Passport](https://github.com/jaredhanson/passport) strategy for authenticating
